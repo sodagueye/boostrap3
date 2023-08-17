@@ -19,6 +19,7 @@ section{
     letter-spacing: 2px;
     text-decoration: none;
 }
+
 .main-btn:hover{
     background-color: rgb(245, 96, 96) ;
     border-color: rgb(245, 96, 96) ;
@@ -103,7 +104,7 @@ h6{
     width: 100%;
     height: auto;
   min-height: 650px;
-  background-image: url('../image/img11.jpg');
+  background-image: url('../portfolio/bg-image.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -269,7 +270,7 @@ p{
     width: 100px;
 
 }
-.footer_wrapper  .social-icon i{
+.footer_wrapper  .social-icon li{
     margin: 6px;
 }
 .footer_wrapper  .social-icon a{
@@ -292,6 +293,7 @@ p{
     box-shadow: 0 10px 0 rgb(0 0 0 /10%);
     transform: translateY(-3px);
 }
+
 .footer_wrapper .copy p{
     font-size: 11px;
     line-height: 20px;
